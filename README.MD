@@ -47,7 +47,7 @@ npm run start:dev
 
 This will automatically send emails.
 
-![video demonstracao](https://github.com/rafaelcitario/mail-sender/assets/83686681/f32945fb-8de3-4018-9543-b9dae605cd7c)
+<img src="https://i.ibb.co/WFhhvty/2024-04-27-14-50-44.gif" alt="2024-04-27-14-50-44" border="0">
 
 ## RoadMap
 
