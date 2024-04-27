@@ -47,7 +47,7 @@ npm run start:dev
 
 This will automatically send emails.
 
-<img src="https://i.ibb.co/WFhhvty/2024-04-27-14-50-44.gif" alt="2024-04-27-14-50-44" border="0">
+<img src="https://i.ibb.co/Sxtjz2s/Design-sem-nome.gif" alt="Design-sem-nome" border="0">
 
 ## RoadMap
 
