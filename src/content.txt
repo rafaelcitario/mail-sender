@@ -1,0 +1,4 @@
+Este e-mail esta sendo enviado atravez de script utilizando as seguintes técnologias:
+node.js
+nodemailer
+typescript
