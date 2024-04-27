@@ -23,7 +23,7 @@ pass=GoogleSecretPasswordApps
 
 [To create an App password, access this link](https://myaccount.google.com/apppasswords)
 
-<a href="https://ibb.co/LRmL3by"><img src="https://i.ibb.co/3d2DnGb/Captura-de-tela-2024-04-27-143740.png" alt="Captura-de-tela-2024-04-27-143740" border="0"></a>
+<img src="https://i.ibb.co/3d2DnGb/Captura-de-tela-2024-04-27-143740.png" alt="Captura-de-tela-2024-04-27-143740" border="0">
 
 After you've named your app, copy the Secret Password and click on the blue button.
 
@@ -47,7 +47,7 @@ npm run start:dev
 
 This will automatically send emails.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/WFhhvty/2024-04-27-14-50-44.gif" alt="2024-04-27-14-50-44" border="0"></a>
+<img src="https://i.ibb.co/WFhhvty/2024-04-27-14-50-44.gif" alt="2024-04-27-14-50-44" border="0">
 
 ## RoadMap
 
